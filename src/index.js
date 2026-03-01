@@ -1,4 +1,4 @@
-// print Hello there
+// print Hello there, to test
 function sayHi(name) {
   return `Hello there ${name}`
 }
