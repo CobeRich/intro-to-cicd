@@ -1,6 +1,6 @@
 // print Hello there, to test
 function sayHi(name) {
-  return `Hello there ${name}`
+  return `Hello ${name}`
 }
 
 module.exports = sayHi
